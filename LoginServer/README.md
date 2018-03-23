@@ -4,7 +4,7 @@ erlang帐号服务器
 使用http模式建立玩家账号数据库，并生成一个唯一的UUID即代表玩家的ROLEID，到GameServer上建立唯一的玩家数据
 # 文件夹层级说明
 -- config (配置文件)   
-  -- app (声明的app)   
+--|-- app (声明的app)   
 -- deps (依赖第三方库，别人写的)   
 -- doc (设计文档，怕自己忘记的)  
 -- include (头文件源码)  
